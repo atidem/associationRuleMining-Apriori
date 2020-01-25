@@ -1,2 +1,3 @@
 # associationRuleMining-apriori
-Apriori algorithm 
+
+Apriori algorithm without library 
