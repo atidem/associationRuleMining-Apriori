@@ -1,0 +1,501 @@
+Data Quality Rating,Functional Size,Adjusted Function Points,Total Work Effort,Development Type,Package Customisation,Architecture,Web development,Development Platform,Language Type,Used Methodology,Resource Level
+B,161,161,9808,New Development,No,?,NonWeb,MF,3GL,No,1
+B,895,823,36225,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,266,223,3023,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,278,325,8663,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+A,70,77,436,Enhancement,?,Stand alone,NonWeb,PC,3GL,Yes,1
+A,62,73,3675,Enhancement,?,?,NonWeb,?,4GL,No,1
+B,154,154,1056,Enhancement,No,?,NonWeb,MR,4GL,No,1
+B,0,364,7001,Enhancement,?,Client server,NonWeb,MF,3GL,Yes,1
+B,1374,1223,66600,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+A,454,499,2310,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,0,3411,82968,New Development,No,Stand alone,NonWeb,MR,?,Yes,4
+B,335,649,4540,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+B,0,62,260,Enhancement,?,Client server,NonWeb,PC,4GL,Yes,1
+B,550,594,24664,New Development,No,Client server,NonWeb,MR,4GL,Yes,1
+A,0,1003,15794,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,228,228,1362,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,85,74,503,Enhancement,?,?,NonWeb,?,3GL,No,1
+B,2777,2944,21625,New Development,No,Multi-tier,NonWeb,MF,3GL,No,1
+B,89,92,2601,Enhancement,?,?,NonWeb,?,?,Yes,1
+B,0,154,1047,New Development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,128,145,2200,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,1632,1632,16702,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+B,169,169,840,Enhancement,No,?,NonWeb,MF,4GL,No,1
+B,15,13,176,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,385,424,9859,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,157,157,812,Enhancement,Dont Know,?,NonWeb,?,3GL,No,1
+B,0,253,2960,New Development,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,130,130,3904,New Development,No,?,NonWeb,MF,3GL,No,1
+B,266,278,8662,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+D,4183,4183,3115,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+B,263,263,971,Enhancement,Dont Know,?,NonWeb,?,3GL,No,1
+B,12,15,178,Enhancement,?,?,Web,?,?,Yes,1
+B,0,147,433,Enhancement,?,Stand alone,NonWeb,MF,4GL,Yes,1
+B,0,875,2383,Enhancement,No,Client server,NonWeb,PC,ApG,No,1
+B,426,426,1680,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,13,13,207,Enhancement,?,Client server,NonWeb,?,?,No,1
+B,264,282,1658,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,131,131,1253,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,316,379,35,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+D,0,7450,27336,New Development,?,?,NonWeb,?,?,Yes,4
+B,83,99,1145,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,142,142,7000,Enhancement,No,?,NonWeb,MF,3GL,Yes,1
+B,112,105,1328,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+B,829,1028,40000,Enhancement,No,?,NonWeb,MF,?,Yes,4
+B,92,92,1171,New Development,No,?,NonWeb,MR,3GL,No,1
+A,322,328,665,New Development,No,?,NonWeb,PC,4GL,Yes,1
+B,129,129,529,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,143,136,3012,Enhancement,No,Stand alone,NonWeb,MF,?,Yes,1
+B,455,455,10670,New Development,Dont Know,?,NonWeb,?,4GL,No,1
+B,307,307,4404,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,147,147,1327,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,1869,2000,5281,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,24,28,59,Enhancement,?,Client server,NonWeb,?,3GL,No,1
+A,1318,1437,4900,New Development,No,Client server,NonWeb,MR,4GL,Yes,4
+A,884,919,4815,New Development,?,Client server,NonWeb,?,4GL,Yes,1
+B,291,291,1827,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,30,30,1249,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,124,139,6585,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,4
+B,0,22,1462,Enhancement,Yes,Stand alone,NonWeb,?,?,Yes,1
+B,0,770,4160,New Development,?,Client server,NonWeb,PC,3GL,No,4
+B,0,275,4136,Enhancement,No,?,NonWeb,?,?,Yes,4
+B,543,565,2191,New Development,No,?,NonWeb,MF,3GL,Yes,1
+B,61,61,782,Enhancement,?,?,NonWeb,MF,?,Yes,1
+B,0,740,3732,New Development,No,Client server,NonWeb,PC,4GL,No,1
+A,195,224,2890,New Development,No,Client server,NonWeb,MR,3GL,Yes,2
+A,114,98,2974,Enhancement,?,?,NonWeb,?,4GL,No,1
+B,?,?,2372,Re-development,?,Multi-tier,NonWeb,MF,3GL,Yes,4
+B,224,?,188,New Development,?,?,NonWeb,PC,?,No,4
+B,985,975,18802,Re-development,No,?,NonWeb,MF,3GL,Yes,1
+B,371,390,16136,New Development,Yes,Client server,NonWeb,MF,?,Yes,1
+D,906,940,558,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+A,55,48,648,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,272,294,1248,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,4
+B,0,307,5680,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,31,29,86,Enhancement,?,Client server,NonWeb,?,4GL,No,1
+C,0,364,4000,New Development,No,?,NonWeb,MR,?,No,1
+B,0,250,744,Enhancement,Yes,Client server,NonWeb,MF,4GL,No,1
+B,0,251,2032,New Development,?,Client server,NonWeb,PC,4GL,Yes,1
+B,96,86,633,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,4
+B,0,724,6616,New Development,No,Client server,NonWeb,PC,?,Yes,4
+B,0,116,626,New Development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,365,365,8277,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,146,146,926,New Development,Dont Know,?,NonWeb,?,?,No,1
+A,497,477,2741,Enhancement,No,?,NonWeb,MF,4GL,No,1
+A,72,72,486,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,1
+C,196,127,632,Enhancement,No,Stand alone,NonWeb,MR,4GL,Yes,1
+B,38,38,156,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,131,131,498,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+A,1255,1355,7505,New Development,Yes,Stand alone,NonWeb,MR,3GL,Yes,1
+D,286,286,1952,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,707,806,26400,New Development,No,Client server,NonWeb,?,3GL,Yes,4
+A,747,769,12551,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,566,566,1249,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,245,245,1152,New Development,Dont Know,?,NonWeb,?,?,No,1
+A,0,1077,2236,New Development,?,Client server,NonWeb,PC,4GL,Yes,1
+B,79,79,1030,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+B,0,493,898,Enhancement,Yes,?,NonWeb,PC,3GL,Yes,1
+B,117,117,1171,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,0,243,1774,New Development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,0,25,358,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,129,104,2459,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,139,149,1888,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,781,781,42574,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+A,200,218,6765,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,141,166,3902,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,435,435,4045,New Development,No,?,Web,MR,3GL,No,1
+B,409,414,460,Enhancement,?,?,NonWeb,?,?,Yes,1
+B,57,57,1179,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+A,142,185,6416,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,463,463,2303,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+A,0,18,260,Enhancement,No,Stand alone,NonWeb,MF,?,No,2
+B,0,1100,1119,New Development,No,Client server,NonWeb,?,?,No,2
+A,421,450,6138,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,39,39,480,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,41,41,187,New Development,No,?,Web,PC,3GL,No,1
+B,0,216,7360,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,0,79,624,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,170,184,2952,New Development,No,Client server,NonWeb,MR,4GL,Yes,2
+A,601,619,4336,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+B,190,190,2537,New Development,No,?,NonWeb,MF,4GL,Yes,1
+B,351,351,1040,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+D,0,317,548,New Development,No,Stand alone,NonWeb,MR,4GL,No,2
+B,0,256,1766,New Development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,297,297,2762,New Development,No,?,Web,MR,3GL,No,1
+B,385,385,5138,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,142,?,13002,Enhancement,?,Stand alone,NonWeb,PC,3GL,Yes,1
+A,100,104,2321,Enhancement,?,Client server,NonWeb,PC,4GL,Yes,1
+A,0,215,1946,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,258,248,2909,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,876,903,5482,Enhancement,?,Stand alone,NonWeb,MR,4GL,Yes,1
+B,576,938,35151,Enhancement,?,Client server,NonWeb,?,3GL,Yes,1
+B,46,43,331,New Development,No,Client server,NonWeb,MF,4GL,No,1
+B,0,309,3152,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+A,0,125,840,Enhancement,No,Stand alone,NonWeb,MF,?,Yes,1
+A,28,?,279,Enhancement,?,Client server,NonWeb,MF,3GL,Yes,1
+A,205,226,2508,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+B,0,370,732,New Development,No,?,NonWeb,PC,3GL,No,1
+B,920,920,3201,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,108,119,4461,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,0,391,5793,New Development,No,Client server,NonWeb,MR,3GL,Yes,2
+B,38,38,399,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,89,84,3186,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,0,73,1194,Enhancement,No,Stand alone,NonWeb,MF,ApG,No,1
+B,0,148,5100,New Development,?,Client server,NonWeb,MF,3GL,No,4
+B,80,77,16306,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,0,5274,3336,New Development,No,Stand alone,NonWeb,PC,4GL,No,1
+B,403,403,901,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,446,446,1862,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+B,746,746,2909,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,320,320,12180,New Development,Dont Know,?,NonWeb,?,4GL,No,1
+B,0,133,1609,New Development,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,538,538,1345,Enhancement,Dont Know,?,NonWeb,?,4GL,No,1
+B,0,906,21120,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,79,83,2386,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,198,202,4263,Enhancement,?,?,Web,?,3GL,No,1
+B,69,68,2726,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,0,760,9827,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+A,62,64,392,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+A,144,151,1035,New Development,No,Stand alone,NonWeb,PC,3GL,Yes,1
+B,0,101,818,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,0,165,1056,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,3476,4484,30582,New Development,No,Multi-tier,NonWeb,MF,3GL,Yes,2
+A,391,387,3287,New Development,?,?,NonWeb,?,3GL,Yes,1
+B,1367,1681,12135,New Development,?,?,Web,?,?,No,1
+B,18,18,109,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,0,431,4240,Enhancement,No,Client server,NonWeb,PC,?,Yes,4
+A,318,273,528,New Development,No,Stand alone,NonWeb,PC,4GL,No,3
+B,394,394,971,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,0,141,299,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,1
+B,44,49,3000,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,4
+B,264,264,686,Enhancement,No,?,NonWeb,MF,3GL,No,1
+C,148,172,6384,Enhancement,Yes,Multi-tier,NonWeb,MF,3GL,Yes,1
+A,149,150,687,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,99,108,2815,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,0,163,1576,New Development,?,Client server,NonWeb,PC,4GL,Yes,1
+A,1401,1523,61891,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,4
+B,120,134,912,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+A,41,32,498,New Development,No,Stand alone,NonWeb,MF,4GL,No,1
+B,67,74,901,Enhancement,?,?,Web,?,?,Yes,1
+A,224,220,281,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,3
+B,228,242,4067,New Development,?,Client server,NonWeb,?,3GL,Yes,1
+B,0,188,1786,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,287,287,2284,New Development,?,Client server,NonWeb,MF,3GL,Yes,1
+A,115,123,1896,New Development,No,Client server,NonWeb,MR,4GL,Yes,2
+A,0,143,1922,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,2
+A,182,189,563,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,251,261,3123,New Development,No,Stand alone,NonWeb,MR,3GL,No,4
+B,0,711,18840,Enhancement,No,?,NonWeb,?,?,Yes,2
+B,44,49,3392,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,230,230,1249,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,0,1375,5624,New Development,No,Client server,NonWeb,MR,4GL,No,1
+D,2480,2406,11700,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,197,197,8542,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,44,44,710,New Development,No,?,NonWeb,?,3GL,Yes,4
+B,2211,2211,4676,Enhancement,Dont Know,?,NonWeb,?,4GL,No,1
+B,338,338,730,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,106,?,7111,New Development,?,Client server,Web,?,3GL,No,1
+B,1122,1122,1123,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,101,101,1101,New Development,No,?,NonWeb,MF,?,No,1
+B,314,314,1260,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+B,1606,1606,17230,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+D,3306,3438,614,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,146,156,4744,New Development,Yes,Stand alone,NonWeb,MF,3GL,Yes,4
+B,146,146,5419,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,3210,3210,43300,New Development,Dont Know,?,NonWeb,?,4GL,No,1
+B,0,255,3536,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,7,7,1818,Enhancement,?,?,NonWeb,?,3GL,No,1
+B,63,71,865,Enhancement,?,Client server,NonWeb,?,4GL,No,1
+B,20,22,832,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,335,342,2028,New Development,?,Multi-tier,NonWeb,MF,4GL,Yes,4
+B,1064,1064,1022,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+C,0,695,8240,New Development,No,?,NonWeb,?,?,No,1
+B,0,38,327,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+A,480,480,6137,Enhancement,No,Client server,NonWeb,MF,?,Yes,2
+A,?,?,4474,Enhancement,?,Stand alone,NonWeb,PC,4GL,Yes,1
+C,318,398,1946,Enhancement,No,Stand alone,NonWeb,PC,3GL,Yes,2
+B,238,238,1386,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+A,0,937,9142,Enhancement,No,Client server,NonWeb,MR,3GL,No,2
+B,0,11,61,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,0,76,357,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,142,152,4216,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+B,170,170,5950,New Development,No,?,NonWeb,MR,3GL,No,1
+B,0,6340,164764,New Development,No,Stand alone,NonWeb,MF,?,No,2
+B,869,869,16210,New Development,No,?,NonWeb,MF,3GL,No,1
+B,40,40,859,Enhancement,No,?,NonWeb,MF,3GL,No,1
+D,604,604,1952,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,116,116,2630,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,153,155,1840,New Development,?,?,Web,?,?,No,1
+A,556,617,3148,Enhancement,?,Client server,NonWeb,MR,3GL,No,1
+B,24,24,155,Enhancement,No,?,NonWeb,MF,?,No,1
+B,132,135,1543,Enhancement,?,?,Web,?,3GL,Yes,1
+A,178,194,499,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,225,230,500,Re-development,No,Stand alone,NonWeb,PC,4GL,Yes,1
+A,211,211,3566,Enhancement,?,Client server,Web,PC,4GL,Yes,1
+B,98,98,636,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,476,476,4186,Enhancement,Dont Know,?,NonWeb,?,3GL,No,1
+A,1181,1193,3006,Enhancement,?,Stand alone,NonWeb,PC,4GL,Yes,1
+A,?,?,5737,Enhancement,?,Client server,NonWeb,MF,3GL,Yes,4
+A,0,1494,16929,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,0,294,3728,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,406,406,800,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,0,37,414,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,0,338,646,Enhancement,No,Client server,NonWeb,PC,ApG,Yes,1
+B,242,242,7171,New Development,No,?,NonWeb,MF,3GL,No,1
+B,759,759,110,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,119,119,2321,Enhancement,No,?,NonWeb,MF,3GL,No,1
+D,248,248,6308,Enhancement,No,?,NonWeb,MF,3GL,No,1
+A,177,177,789,New Development,?,?,NonWeb,?,4GL,No,1
+C,211,234,3202,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+A,46,51,338,Enhancement,No,?,NonWeb,MF,4GL,No,1
+B,165,165,850,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+A,154,155,483,Enhancement,?,?,NonWeb,?,4GL,No,1
+B,609,609,2218,New Development,No,?,Web,PC,4GL,Yes,1
+A,157,162,1754,New Development,No,?,NonWeb,MF,3GL,Yes,1
+A,54,58,327,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+D,335,298,2409,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,79,84,2817,Enhancement,?,?,NonWeb,?,3GL,No,1
+B,51,57,536,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+B,694,694,14992,New Development,No,?,Web,MR,3GL,No,1
+B,702,702,4805,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,238,?,1184,New Development,?,Client server,Web,?,?,No,1
+B,14,14,167,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,364,364,3253,Enhancement,Dont Know,?,NonWeb,?,3GL,No,1
+D,0,139,3340,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,895,895,4648,New Development,No,?,Web,PC,4GL,No,1
+B,201,201,5232,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,6,6,937,New Development,No,?,NonWeb,MF,3GL,No,1
+B,0,511,10000,Enhancement,No,Stand alone,NonWeb,MF,?,Yes,4
+B,63,67,5272,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,413,413,2989,Enhancement,No,?,NonWeb,MF,?,No,1
+B,380,353,2676,Enhancement,?,?,Web,?,?,Yes,1
+B,18,21,864,Enhancement,?,Client server,NonWeb,?,4GL,No,1
+B,0,2238,99088,Re-development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+B,38,44,944,Enhancement,?,?,NonWeb,?,3GL,No,1
+B,277,329,7365,Enhancement,?,Stand alone,NonWeb,?,4GL,Yes,1
+B,216,212,3633,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,4
+A,1540,1694,7816,New Development,No,?,NonWeb,MF,ApG,Yes,1
+B,176,188,5484,New Development,?,Stand alone,NonWeb,PC,3GL,Yes,1
+B,177,177,1570,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,0,17,54,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,419,406,2109,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+B,26,26,136,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,1272,1272,10448,New Development,No,?,NonWeb,PC,?,No,1
+A,0,124,3639,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,0,87,619,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+A,130,116,1939,Enhancement,No,?,NonWeb,MF,4GL,No,1
+B,885,885,1940,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,1401,1401,9696,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,0,708,3374,New Development,No,Client server,NonWeb,MF,4GL,No,1
+A,46,52,3372,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,226,213,7432,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,1236,1236,2504,New Development,No,?,Web,PC,4GL,No,1
+A,323,291,6063,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,192,151,449,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+B,108,85,3048,New Development,?,Stand alone,NonWeb,MF,3GL,Yes,4
+B,165,185,1650,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,6,6,734,Enhancement,?,Client server,NonWeb,?,4GL,No,1
+B,0,78,1006,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,52,56,654,Enhancement,?,?,NonWeb,?,?,Yes,1
+B,433,524,17120,New Development,No,Client server,Web,MR,3GL,No,4
+A,0,304,9128,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,2
+A,1510,1570,6972,New Development,Yes,Stand alone,NonWeb,MF,3GL,Yes,1
+B,51,51,280,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+D,514,514,3951,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,0,37,311,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,138,138,2655,New Development,No,?,NonWeb,MF,3GL,No,1
+B,0,2330,4167,New Development,No,Client server,NonWeb,PC,4GL,No,1
+B,0,89,1120,Re-development,No,Client server,NonWeb,MF,3GL,Yes,4
+D,7061,6990,4831,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,2
+B,0,191,6240,New Development,No,?,NonWeb,?,?,Yes,2
+A,1801,2143,43303,New Development,Yes,Stand alone,NonWeb,MR,4GL,Yes,1
+B,1239,1177,11514,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+B,59,67,1008,Enhancement,?,Client server,NonWeb,?,3GL,No,1
+A,35,?,82,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+B,2245,2245,18314,New Development,No,?,Web,MR,4GL,No,1
+A,260,226,915,New Development,No,Stand alone,NonWeb,MR,4GL,No,4
+D,1271,1258,1190,New Development,No,Client server,NonWeb,PC,4GL,Yes,1
+B,3,3,28,Enhancement,?,Client server,NonWeb,?,?,Yes,1
+B,202,257,2967,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+A,13580,17518,54620,Re-development,Yes,Client server,NonWeb,MF,3GL,Yes,1
+C,1206,1399,12705,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,1
+B,0,488,7027,New Development,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,74,74,835,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,104,122,5799,Enhancement,?,?,NonWeb,?,?,Yes,1
+B,560,560,752,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,189,212,1240,Enhancement,?,?,NonWeb,MF,4GL,Yes,1
+B,1460,1663,5760,New Development,?,Client server,NonWeb,PC,4GL,No,1
+B,845,1022,5334,New Development,No,Client server,NonWeb,MF,3GL,Yes,1
+A,78,81,89,Enhancement,?,Stand alone,NonWeb,PC,4GL,Yes,1
+B,89,82,1477,Enhancement,?,?,NonWeb,?,?,No,1
+B,776,776,1718,New Development,No,?,Web,PC,4GL,No,1
+B,201,201,2499,New Development,No,?,NonWeb,MF,3GL,No,1
+A,56,51,387,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,378,240,8193,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+B,291,291,711,New Development,Dont Know,?,NonWeb,?,?,No,1
+C,0,1664,28441,New Development,?,?,NonWeb,?,?,Yes,4
+B,0,320,5190,New Development,?,Client server,NonWeb,PC,3GL,Yes,4
+B,0,216,1598,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,196,196,3195,New Development,No,?,NonWeb,MF,4GL,Yes,1
+A,41,41,666,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,703,703,4186,Enhancement,Dont Know,?,NonWeb,?,3GL,No,1
+A,103,110,1362,Enhancement,No,Stand alone,NonWeb,MF,4GL,No,1
+A,1702,1617,2621,New Development,No,Client server,NonWeb,PC,4GL,Yes,1
+A,0,65,2263,Enhancement,?,Stand alone,NonWeb,MF,4GL,Yes,1
+B,0,275,890,Enhancement,No,Stand alone,NonWeb,PC,4GL,No,1
+B,262,267,7258,Enhancement,?,?,Web,?,3GL,No,1
+A,64,65,503,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,545,545,8740,Enhancement,?,Client server,NonWeb,MF,3GL,Yes,1
+B,313,729,4968,Enhancement,?,Stand alone,NonWeb,?,3GL,Yes,1
+B,723,774,3453,Enhancement,No,Stand alone,NonWeb,MF,ApG,Yes,4
+A,119,96,1223,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,0,154,322,Enhancement,?,Stand alone,NonWeb,PC,ApG,Yes,1
+B,123,159,1015,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+A,338,358,13919,New Development,?,Client server,NonWeb,MR,3GL,Yes,1
+A,364,389,1134,Enhancement,No,Stand alone,NonWeb,MF,4GL,Yes,2
+A,119,112,1073,New Utility,No,Stand alone,NonWeb,MF,3GL,Yes,4
+D,39,39,190,New Development,No,Stand alone,NonWeb,PC,3GL,No,1
+B,113,113,835,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+C,0,1405,249424,New Development,?,Stand alone,NonWeb,MR,?,No,4
+C,80,90,2879,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,0,286,2070,Enhancement,No,Client server,NonWeb,MF,ApG,Yes,1
+A,114,97,1853,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,149,149,518,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,18,16,465,New Development,Yes,Multi-tier,NonWeb,MF,4GL,Yes,4
+B,374,374,5072,Enhancement,No,?,NonWeb,MF,3GL,No,1
+A,84,73,1121,Enhancement,?,Stand alone,NonWeb,MR,4GL,No,1
+B,129,129,656,New Development,No,?,NonWeb,MF,3GL,No,1
+A,268,268,2933,Enhancement,No,Client server,NonWeb,MR,4GL,Yes,2
+A,10,9,239,Enhancement,Yes,?,NonWeb,?,3GL,Yes,1
+B,0,4,24,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,0,261,4422,Enhancement,No,Stand alone,NonWeb,MF,?,No,2
+A,0,1507,32399,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,253,253,6232,New Development,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,589,589,4217,New Development,No,?,Web,MR,3GL,No,1
+A,?,?,6848,Enhancement,?,Client server,NonWeb,MF,3GL,Yes,4
+A,34,?,11239,New Development,?,Client server,NonWeb,MF,3GL,Yes,1
+B,860,860,2074,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,122,122,574,Enhancement,Dont Know,?,NonWeb,?,4GL,No,1
+A,177,173,8716,New Development,?,?,NonWeb,?,3GL,Yes,1
+D,146,146,1620,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+A,141,134,2019,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,0,188,1354,New Development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,57,63,623,New Development,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,310,348,5374,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,17,17,1015,New Development,No,?,NonWeb,MF,3GL,No,1
+A,354,354,5841,Re-development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,0,4911,59028,New Development,?,Stand alone,NonWeb,MR,?,Yes,1
+B,30,30,578,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,126,126,1442,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,15,15,3842,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,227,323,15544,Enhancement,?,Stand alone,NonWeb,?,3GL,Yes,1
+A,81,84,2738,Enhancement,?,Client server,NonWeb,PC,4GL,Yes,1
+B,340,340,2723,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,7599,9803,36286,New Development,No,Stand alone,NonWeb,MF,ApG,Yes,1
+B,169,169,625,New Development,Dont Know,?,NonWeb,?,?,No,1
+B,1200,1200,53721,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+D,15,12,10,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,77,77,378,Enhancement,?,Client server,NonWeb,?,?,Yes,1
+A,69,71,4019,Enhancement,?,Stand alone,NonWeb,MR,3GL,Yes,1
+C,0,226,4667,Enhancement,No,Multi-tier,NonWeb,MF,2GL,Yes,1
+A,2090,?,10500,Re-development,?,Client server,Web,PC,4GL,Yes,1
+A,1431,1402,17607,New Development,No,?,NonWeb,MF,4GL,Yes,1
+B,0,1117,35415,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,19,19,155,Enhancement,No,?,Web,MR,3GL,No,1
+B,0,149,1092,Enhancement,Yes,Stand alone,NonWeb,MF,4GL,No,1
+B,376,376,1230,Enhancement,No,?,NonWeb,PC,?,No,1
+B,975,1014,3504,New Development,Yes,Stand alone,NonWeb,MF,4GL,No,1
+B,0,87,3585,Enhancement,No,Stand alone,NonWeb,MF,2GL,Yes,1
+A,367,473,6371,New Development,?,Stand alone,NonWeb,MF,3GL,Yes,1
+A,409,397,7459,New Development,?,Stand alone,NonWeb,PC,3GL,Yes,1
+C,1569,1679,8584,Enhancement,No,Stand alone,NonWeb,PC,ApG,Yes,2
+B,556,556,1679,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,0,233,1817,Enhancement,?,Multi-tier or Client server,NonWeb,Multi,4GL,Yes,1
+B,82,88,10886,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,64,66,1817,Enhancement,?,Stand alone,NonWeb,MR,4GL,Yes,1
+A,191,222,2450,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,92,92,5600,Enhancement,No,?,NonWeb,MF,3GL,Yes,1
+B,56,56,426,Enhancement,No,?,NonWeb,MF,3GL,No,1
+A,209,245,3532,Enhancement,No,Multi-tier,NonWeb,MF,4GL,Yes,1
+B,0,524,11500,Enhancement,No,Client server,NonWeb,MF,3GL,No,1
+B,155,183,8385,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,638,638,10135,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,0,160,1136,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,55,62,10558,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,313,313,441,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+B,0,78,840,Enhancement,No,?,NonWeb,?,?,Yes,2
+A,517,579,784,New Development,No,?,NonWeb,PC,4GL,Yes,1
+B,105,166,2898,Enhancement,?,Stand alone,NonWeb,?,3GL,Yes,1
+B,1671,1671,39358,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+A,430,520,3133,New Development,No,Client server,NonWeb,MF,3GL,Yes,2
+C,131,136,1600,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,233,231,4116,New Development,No,Stand alone,NonWeb,MF,3GL,No,1
+B,262,262,2240,New Development,?,?,Web,?,?,No,1
+B,89,93,983,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,397,232,3468,Enhancement,?,Stand alone,NonWeb,?,4GL,Yes,1
+B,398,442,749,New Development,No,?,NonWeb,MR,4GL,Yes,1
+A,182,?,245,New Development,?,Stand alone,NonWeb,PC,3GL,Yes,4
+A,60,60,992,Enhancement,No,Stand alone,NonWeb,MF,3GL,No,1
+B,342,342,1680,New Development,No,?,NonWeb,MF,4GL,No,1
+A,421,421,16788,Re-development,?,Client server,NonWeb,PC,3GL,Yes,1
+B,0,467,2855,Enhancement,?,Client server,NonWeb,PC,4GL,Yes,1
+B,919,919,1624,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,749,749,4623,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,224,224,2444,New Development,Dont Know,?,NonWeb,?,3GL,No,1
+B,295,351,1775,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+A,279,235,937,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,95,95,350,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,Yes,1
+B,1052,1052,39104,Enhancement,?,Stand alone,NonWeb,MF,4GL,Yes,4
+B,2120,2120,11830,New Development,No,Multi-tier or Client server,NonWeb,Multi,4GL,No,1
+B,472,444,7520,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+A,0,1290,18297,New Development,?,?,NonWeb,?,3GL,Yes,1
+B,161,185,9719,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,382,478,22000,Enhancement,No,Client server,NonWeb,MF,3GL,Yes,4
+A,58,62,2027,Enhancement,Yes,Client server,NonWeb,MR,4GL,Yes,1
+B,119,138,1907,Enhancement,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,56,56,980,Enhancement,No,?,NonWeb,MF,3GL,No,1
+B,408,408,1820,Enhancement,Dont Know,?,NonWeb,?,?,No,1
+B,48,48,186,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+A,306,306,2082,Re-development,No,Stand alone,NonWeb,MF,3GL,Yes,2
+B,157,157,441,Enhancement,Dont Know,?,NonWeb,?,4GL,No,1
+B,70,60,1607,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,135,119,700,New Development,No,Client server,NonWeb,PC,4GL,Yes,1
+A,1502,1587,7490,New Development,No,Stand alone,NonWeb,PC,4GL,Yes,4
+B,0,385,1346,Enhancement,No,Client server,NonWeb,MF,4GL,No,1
+B,255,265,14040,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,81,98,1168,Enhancement,?,Client server,NonWeb,?,4GL,Yes,1
+B,67,70,322,Enhancement,?,?,Web,?,3GL,Yes,1
+B,50,61,1556,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,73,68,1642,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,2303,2372,16514,New Development,No,Stand alone,NonWeb,MF,4GL,Yes,2
+B,0,58,278,Enhancement,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+A,474,474,1829,Enhancement,?,Client server,Web,MF,3GL,Yes,1
+B,126,123,843,Enhancement,?,?,Web,?,?,No,1
+A,128,128,3303,Enhancement,?,Client server,Web,MF,3GL,No,1
+A,3113,3113,34085,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+C,133,153,2216,Enhancement,No,Stand alone,NonWeb,MR,3GL,No,1
+C,86,79,1221,Enhancement,?,?,NonWeb,?,?,Yes,1
+B,396,360,8249,Enhancement,?,?,NonWeb,MF,3GL,Yes,1
+B,0,2059,6200,Re-development,No,Client server,NonWeb,PC,?,Yes,4
+B,0,36,117,Enhancement,No,Stand alone,NonWeb,PC,3GL,No,1
+A,59,63,778,Enhancement,?,Stand alone,NonWeb,MR,3GL,Yes,1
+A,105,98,1000,New Development,?,Stand alone,NonWeb,MF,3GL,Yes,1
+B,139,139,1000,New Development,No,?,NonWeb,MR,?,No,1
+A,68,70,617,Enhancement,?,?,NonWeb,?,4GL,Yes,1
+B,158,169,4140,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+A,81,88,129,Enhancement,?,?,NonWeb,?,3GL,Yes,1
+B,34,34,61,Enhancement,No,?,NonWeb,MF,3GL,No,1
+A,94,75,720,New Development,No,Stand alone,NonWeb,MF,?,Yes,1
+C,0,100,1200,New Development,No,Stand alone,NonWeb,?,2GL,No,1
+B,0,218,3074,New Development,?,Multi-tier with web public interface,Web,Multi,3GL,Yes,1
+B,267,286,2400,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,4
+C,731,731,0,New Development,No,Multi-tier or Client server,NonWeb,Multi,3GL,No,1
+B,0,14745,6708,Enhancement,Yes,Stand alone,NonWeb,MR,4GL,No,1
+B,117,117,1674,Enhancement,No,Multi-tier,NonWeb,MF,3GL,Yes,1
+B,128,128,78,Enhancement,No,Multi-tier or Client server,NonWeb,Multi,?,No,1
+A,51,62,883,Enhancement,No,Stand alone,NonWeb,MF,3GL,Yes,1
+B,103,106,1920,Enhancement,?,?,NonWeb,MF,4GL,Yes,1
+B,213,213,4044,New Development,Yes,Stand alone,NonWeb,MF,3GL,Yes,1
+B,404,404,844,New Development,No,Stand alone,NonWeb,MF,3GL,Yes,1
+D,103,97,218,New Development,No,Stand alone,NonWeb,MF,3GL,No,4
